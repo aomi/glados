@@ -1,0 +1,22 @@
+{
+  "name": "glados",
+  "version": "1.0.0",
+  "description": "A companion app for OpenComputers applications.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aomi/glados.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aomi/glados/issues"
+  },
+  "homepage": "https://github.com/aomi/glados#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
