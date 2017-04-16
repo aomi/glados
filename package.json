@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/aomi/glados#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "typescript": "^2.2.2"
   }
 }
